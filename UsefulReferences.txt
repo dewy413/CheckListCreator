@@ -1,0 +1,4 @@
+If I want to use just raw CMD code. 
+http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html
+
+
